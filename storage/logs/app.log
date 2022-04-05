@@ -1,0 +1,8 @@
+2022/04/06 00:08:14 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1649174894664447000}
+2022/04/06 00:23:44 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符","time":1649175824304256000}
+2022/04/06 00:25:08 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1649175908737568000}
+2022/04/06 00:25:26 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为3个字符,State为必填字段","time":1649175926765408000}
+2022/04/06 00:26:20 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1649175980255676000}
+2022/04/06 00:26:34 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: ID为必填字段,Name长度必须至少为3个字符,State为必填字段","time":1649175994152685000}
+2022/04/06 00:28:09 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1649176089921828000}
+2022/04/06 00:28:35 {"callers":["/Users/chenmuxi/go/src/HTTP-Blog/main.go: 25 main.init.0"],"level":"error","message":"app.BindAndValid errs: State为必填字段","time":1649176115685782000}
